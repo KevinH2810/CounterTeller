@@ -1,0 +1,8 @@
+[
+	{
+		"teller_id": "1",
+		"teller_name": "Silvia Romanov",
+		"queue": 2,
+		"status": false
+	}
+]
